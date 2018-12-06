@@ -1,0 +1,3 @@
+[submodule "tobii-for-matlab"]
+	path = tobii-for-matlab
+	url = https://github.com/janfreyberg/tobii-for-matlab
